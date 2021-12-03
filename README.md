@@ -52,4 +52,4 @@
 ![App Screenshot](https://github.com/fzhussain/signin-singup-edit_details/blob/master/App_ScreenShots_and_video/9.png?raw=true)
 
 ### Images stored in firebase storage
-![App Screenshot](https://github.com/fzhussain/signin-singup-edit_details/blob/master/App_ScreenShots_and_video/10.png?raw=true
+![App Screenshot](https://github.com/fzhussain/signin-singup-edit_details/blob/master/App_ScreenShots_and_video/10.png?raw=true)
