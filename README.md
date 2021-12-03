@@ -1,8 +1,9 @@
 
 # SignIn - SignUp - Edit Profile Details
 
+## Demo
 
-
+https://drive.google.com/file/d/1GqoAXZMRk4cXwP70anjsZm_H7fh0JehB/view?usp=sharing
 
 
 ## Front-end
@@ -54,5 +55,4 @@
 ### Images stored in firebase storage
 ![App Screenshot](https://github.com/fzhussain/signin-singup-edit_details/blob/master/App_ScreenShots_and_video/10.png?raw=true)
 
-### Demo Video
-![App Screenshot](https://drive.google.com/file/d/1GqoAXZMRk4cXwP70anjsZm_H7fh0JehB/view?usp=sharing)
+
